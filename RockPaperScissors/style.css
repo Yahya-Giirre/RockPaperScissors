@@ -1,0 +1,33 @@
+.rpsDiv {
+    display: flex;
+    justify-content: space-evenly;
+    position: static;
+}
+
+#choices {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 1rem;
+    margin: 1rem;
+    width: 100px;
+}
+
+.btnChoice {
+    font-size: em;
+}
+
+#results {
+    display: flex;
+    align-items: center;
+}
+
+#playContent {
+    margin-top: 5rem;
+}
+
+#compContent {
+    margin-top: 5rem;
+}
